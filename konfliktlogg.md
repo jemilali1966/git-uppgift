@@ -1,0 +1,1 @@
+Konflikten l”stes genom att beh†lla b†da „ndringarna. 
