@@ -1,2 +1,8 @@
-Git „r ett versionshanteringssystem. 
-Git hj„lper dig sp†ra „ndringar i kod. 
+Git â€r ett versionshanteringssystem. 
+din-redigering
+Git hjâ€lper dig spâ€ ra â€ndringar i kod. 
+- Punktlista â€ver Git-fâ€rdelar: 
+- Versionskontroll 
+- Samarbete 
+- Backup 
+main
