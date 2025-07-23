@@ -1,1 +1,5 @@
 Git „r ett versionshanteringssystem. 
+- Punktlista ”ver Git-f”rdelar: 
+- Versionskontroll 
+- Samarbete 
+- Backup 
