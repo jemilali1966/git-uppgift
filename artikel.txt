@@ -1,5 +1,8 @@
-Git �r ett versionshanteringssystem. 
-- Punktlista �ver Git-f�rdelar: 
+Git „r ett versionshanteringssystem. 
+din-redigering
+Git hj„lper dig sp†ra „ndringar i kod. 
+- Punktlista ”ver Git-f”rdelar: 
 - Versionskontroll 
 - Samarbete 
 - Backup 
+main
