@@ -1,1 +1,2 @@
 Git „r ett versionshanteringssystem. 
+Git hj„lper dig sp†ra „ndringar i kod. 
